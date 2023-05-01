@@ -63,7 +63,8 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 </div>
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Fahd-DevOps)
+<a href="https://github.com/Fahd-DevOps"><img src="https://visitor-badge.laobi.icu/badge?page_id=Fahd-DevOps" alt="visitor badge"></a>
+
 
 
 ## ⚡ Certificates
