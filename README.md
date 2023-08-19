@@ -46,6 +46,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 [![SonarQube](https://img.shields.io/badge/sonarqube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
 [![Datadog](https://img.shields.io/badge/datadog-%234D4D4D.svg?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+[![PowerShell](https://img.shields.io/badge/powershell-%2312100E.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
