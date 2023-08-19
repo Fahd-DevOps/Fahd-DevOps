@@ -1,4 +1,11 @@
-### Hello there! 👋
+<h3 align="center">
+     Hello there!
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    
+</h3>
 
 Welcome to my GitHub page! I'm Fahd Khaled, a DevOps Engineer passionate about creating amazing projects that solve real-world problems. I hope you find something interesting here that inspires you to collaborate, contribute, or simply learn something new.
 
