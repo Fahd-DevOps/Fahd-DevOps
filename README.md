@@ -81,7 +81,8 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 ## ⚡ Certificates
 
 <div align="center">
-<img src="./img/aws-certified-cloud-practitioner.png" width="320px" height="300px" alt="AWS">
+<img src="./img/New Relic Verified Foundation.png" width="320px" height="300px" alt="New Relic">     
+<img src="./img/aws-certified-cloud-practitioner.png" width="350px" height="320px" alt="AWS">
 
 </div>
 
