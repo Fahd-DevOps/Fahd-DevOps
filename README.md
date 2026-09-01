@@ -1,120 +1,237 @@
-<h3 align="center">
-     Hello, and welcome to my GitHub
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
-    
-</h3>
-
-<h2 align="center">I'm <strong>Fahd Khaled a Senior DevOps Engineer</strong></h2>
-
-<h3 align="center">
-<br>
-🚀 passionate about building scalable infrastructure, automating workflows, and implementing secure, reliable systems.
-</h3>
-
-<p align="center">
-Here you'll find projects showcasing my work with <strong>Cloud Platforms</strong>, 
-<strong>Infrastructure-as-Code</strong>, <strong>Containerization</strong>, 
-and <strong>Observability Tools</strong>.
-</p>
-
-<p align="center">
-✨ Focused on delivering <strong>efficiency</strong>, <strong>resilience</strong>, and <strong>collaboration</strong>.
-</p>
-
-<p align="center">
-💬 Have questions or want to collaborate? <strong>Let's connect 🤝</strong>
-</p>
-
-
-
 <div align="center">
-<img src="./images/DevOps.gif" width="50%" height="50%" alt="DevOps">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Fahd%20Khaled&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Senior%20DevOps%20Engineer%20%7C%20DevSecOps&descAlignY=62&descSize=18" width="100%"/>
+
+<a href="https://www.linkedin.com/in/fahd-khaled-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:eng.fahd.elsayed@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Fahd-DevOps&style=for-the-badge&color=2c5364" alt="Profile Views"/>
+<br/><br/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C5364&center=true&vCenter=true&width=750&lines=Senior+DevOps+Engineer+%7C+DevSecOps;Cloud+%7C+On-Premises+%7C+Kubernetes;Infrastructure+as+Code+%7C+CI%2FCD+%7C+Automation;Infrastructure+Security+%7C+Pentesting+%7C+CTFs" alt="Typing SVG"/>
+</a>
 
 </div>
+<br/>
 
-## 📫 reach me
+## 🧑‍💻 About Me
 
-🔗 [![Linkedin Badge](https://img.shields.io/badge/-Fahd_khaled-blue?style=flat-square&logo=Linkedin&logoColor=brightwhite&link=https://www.linkedin.com/in/fahd-khaled-dev/)](https://www.linkedin.com/in/fahd-khaled-dev/)
-  
-✉️ [![Gmail Badge](https://img.shields.io/badge/-eng.fahd.elsayed@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=brightwhite&link=mailto:eng.fahd.elsayed@gmail.com)](mailto:eng.fahd.elsayed@gmail.com)
- 
-## ⚡ Technologies
+I’m a **Senior DevOps Engineer** focused on building scalable, reliable, and secure infrastructure across **cloud and on-premises environments**.
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Vault](https://img.shields.io/badge/vault-%230093D6.svg?style=for-the-badge&logo=vault&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/helm-%23008DE4.svg?style=for-the-badge&logo=helm&logoColor=white)
-![Istio](https://img.shields.io/badge/istio-%23323334.svg?style=for-the-badge&logo=istio&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-%23323334.svg?style=for-the-badge&logo=argo-cd&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-[![Docker Swarm](https://img.shields.io/badge/docker%20swarm-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/engine/swarm/)
-[![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![New Relic](https://img.shields.io/badge/New%20Relic-1CE783.svg?style=for-the-badge&logo=newrelic&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF.svg?style=for-the-badge&logo=dynatrace&logoColor=white)
-[![Nexus](https://img.shields.io/badge/nexus-%23E4405F.svg?style=for-the-badge&logo=nexus&logoColor=white)](https://www.sonatype.com/nexus-repository-oss)
-[![SonarQube](https://img.shields.io/badge/sonarqube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
-[![Datadog](https://img.shields.io/badge/datadog-%234D4D4D.svg?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-[![PowerShell](https://img.shields.io/badge/powershell-%2312100E.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Agile](https://img.shields.io/badge/agile-%230175C2.svg?style=for-the-badge&logo=agile&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+I can design and build infrastructure from the ground up, automate deployments and operations, implement CI/CD pipelines, and establish monitoring and security practices across the entire infrastructure lifecycle.
+
+Working in an organization with a strong focus on **cybersecurity, critical infrastructure, and secure digital technologies** has also strengthened my interest and hands-on experience in **DevSecOps, vulnerability management, infrastructure hardening, and offensive security**.
+
+* 🚀 Design and build **infrastructure from scratch**
+* ☁️ Cloud & **on-premises infrastructure**
+* ☸️ Kubernetes, Docker, Helm & Rancher
+* 🏗️ Terraform & Ansible for Infrastructure as Code
+* 🔄 Jenkins, GitHub Actions & GitLab CI/CD
+* 📊 Prometheus, Grafana, Loki, New Relic & Dynatrace
+* 🔐 DevSecOps, infrastructure security & vulnerability management
+* 🔎 Vulnerability assessment and security scanning
+* 🛡️ Infrastructure hardening and security remediation
+* 🎯 Hack The Box **Seasons 10 & 11**
+* 🧠 Continuously expanding my expertise in **Cloud Security, DevSecOps & Offensive Security**
+
+## 🏢 Current Role
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fahd-DevOps&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://www.thalesgroup.com/"> <img src="https://img.shields.io/badge/Thales-Current%20Company-0055A4?style=for-the-badge&logo=thales&logoColor=white" alt="Thales"/> </a>
+<br/><br/>
+Senior DevOps Engineer
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahd-DevOps&hide_progress=true)
+Cloud • On-Premises • Kubernetes • DevSecOps • Cybersecurity
+
+Building, automating, securing, and operating infrastructure for mission-critical environments.
+
 </div>
+<br/>
 
-
-<a href="https://github.com/Fahd-DevOps"><img src="https://visitor-badge.laobi.icu/badge?page_id=Fahd-DevOps" alt="visitor badge"></a>
-
-
-
-## ⚡ Certificates
+## 🛠️ Tech Arsenal
 
 <div align="center">
-<img src="./img/New Relic Verified Foundation.png" width="320px" height="300px" alt="New Relic">     
-<img src="./img/aws-certified-cloud-practitioner.png" width="350px" height="320px" alt="AWS">
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge\&logo=terraform\&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
+
+### ☸️ Containers & Kubernetes
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge\&logo=helm\&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge\&logo=istio\&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge\&logo=argo\&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge\&logo=rancher\&logoColor=white)
+
+### 🔄 CI/CD & Automation
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 📊 Observability & Monitoring
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge\&logo=prometheus\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F2A900?style=for-the-badge\&logo=grafana\&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge\&logo=newrelic\&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge\&logo=dynatrace\&logoColor=white)
+
+### 🛡️ Cybersecurity & DevSecOps
+
+![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge\&logo=tenable\&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge\&logo=nmap\&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge\&logo=metasploit\&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-111111?style=for-the-badge\&logo=neo4j\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge\&logo=owasp\&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge\&logo=vault\&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
+
+### 🐧 Systems & Networking
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge\&logo=redhat\&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge\&logo=apache\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 </div>
+<br/>
 
+## 🛡️ Cybersecurity & DevSecOps
+
+My DevOps experience extends into **DevSecOps and offensive security**, with a focus on securing infrastructure while understanding how systems can be assessed and attacked.
+
+### 🔍 Vulnerability Management
+
+* **Tenable Nessus** — vulnerability scanning, assessment & remediation
+* Vulnerability assessment and risk analysis
+* Security finding remediation and verification
+* Infrastructure security hardening
+* Linux security configuration and hardening
+* SSL/TLS security assessment
+* Security patching and vulnerability management
+
+### 🎯 Penetration Testing & Reconnaissance
+
+* **Nmap** — network discovery, enumeration & service scanning
+* **Burp Suite** — web application security testing
+* **Metasploit Framework** — exploitation and security validation
+* **BloodHound** — Active Directory attack-path analysis
+* **Wireshark** — network traffic analysis
+* **OWASP ZAP** — web application security testing
+* Linux / Kali Linux security tooling
+* CTFs and hands-on security labs
+
+### 🔐 DevSecOps
+
+* SAST / DAST / SCA
+* Secrets management with **HashiCorp Vault**
+* Secure CI/CD pipelines
+* Container & Kubernetes security
+* Infrastructure hardening
+* Vulnerability management and remediation
+* Security scanning integrated into development and deployment workflows
+<br/>
+
+## 🏆 Hack The Box
+
+<div align="center">
+
+<a href="https://app.hackthebox.com/public/users/3155578">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-Seasons%2010%20%26%2011-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Seasons 10 and 11"/>
+</a>
+
+<br/><br/>
+
+<a href="https://app.hackthebox.com/public/users/3155578">
+  <img src="https://img.shields.io/badge/View%20My%20HTB%20Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box Profile"/>
+</a>
+
+<br/><br/>
+
+**Hands-on experience through Hack The Box labs, machines, challenges and security scenarios.**
+
+</div>
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+<img src="./img/aws-certified-cloud-practitioner.png" width="300px" alt="AWS Certified Cloud Practitioner"/>
+
+<img src="./img/New Relic Verified Foundation.png" width="300px" alt="New Relic Verified Foundation"/>
+
+</div>
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Fahd-DevOps&theme=vision-friendly-dark&hide_border=true" alt="Fahd's GitHub Streak" height="165"/>
+
+</div>
+<br/>
+
+## 🚀 Currently Exploring
+
+<div align="center">
+
+🔐 **DevSecOps & Cloud Security**
+☁️ **AWS Security & Cloud Architecture**
+🛡️ **Penetration Testing & Offensive Security**
+🎯 **Hack The Box & CTFs**
+🤖 **AI-assisted Security & Pentesting**
+☸️ **Kubernetes Security**
+
+</div>
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/fahd-khaled-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Fahd%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:eng.fahd.elsayed@gmail.com">
+  <img src="https://img.shields.io/badge/Email-eng.fahd.elsayed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+💬 **Interested in DevOps, DevSecOps, Cloud, Kubernetes, or Cybersecurity? Let's connect and collaborate. 🤝**
+
+</div>
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
 
 <!--
-**Fahd-DevOps/Fahd-DevOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Fahd-DevOps/Fahd-DevOps** is a ✨ special ✨ repository because this README.md
+appears on your GitHub profile.
 -->
