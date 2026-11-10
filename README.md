@@ -156,7 +156,7 @@ My DevOps experience extends into **DevSecOps and offensive security**, with a f
 <div align="center">
 
 <a href="https://app.hackthebox.com/public/users/3155578">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-Seasons%2010%20%26%2011-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Seasons 10 and 11"/>
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-Seasons%2010%20%26%2011-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box Seasons 10 , 11 & 12"/>
 </a>
 
 <br/><br/>
@@ -220,7 +220,7 @@ My DevOps experience extends into **DevSecOps and offensive security**, with a f
 
 <br/><br/>
 
-💬 **Interested in DevOps, DevSecOps, Cloud, Kubernetes, or Cybersecurity? Let's connect and collaborate. 🤝**
+💬 **Interested in DevOps, DevSecOps, Cloud, Kubernetes, and Cybersecurity? Let's connect and collaborate. 🤝**
 
 </div>
 <br/>
